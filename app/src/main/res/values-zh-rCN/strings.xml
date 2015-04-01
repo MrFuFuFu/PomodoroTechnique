@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">番茄工作法</string>
+    <string name="action_settings">设置</string>
+    <string name="action_about">关于</string>
+
+    <string name="stop">停止</string>
+    <string name="running_in_background">后台运行</string>
+    <string name="do_you_wish_to_stop">你想要停止这个番茄吗？</string>
+    <string name="stop_pomodoro">停止番茄？</string>
+    <string name="break_time_up">休息时间到了</string>
+
+    <string name="tap_to_break">点此去休息</string>
+    <string name="take_a_break">去休息</string>
+    <string name="cancel">取消</string>
+    <string name="pomodoro_time_up">番茄时间到了</string>
+    <string name="now_you_can_take_a_break">现在，你可以去休息一会了</string>
+
+    <string name="continue_pomodoro">继续</string>
+    <string name="now_you_can_continue_your_pomodoro">现在，你该继续下一个番茄了</string>
+    <string name="tap_to_continue_your_pomodoro">点此进行下一个番茄</string>
+
+    <string name="sp_is_running">番茄正在运行</string>
+    <string name="click_to_return">点此返回</string>
+
+    <string name="pomodoro">番茄</string>
+    <string name="task">任务</string>
+
+    <string name="start">开始</string>
+    <string name="tobreak">休息</string>
+    <string name="next_pomodro">下个番茄</string>
+
+</resources>

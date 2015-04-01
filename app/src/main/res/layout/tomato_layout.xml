@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEEEEE"
+    android:id="@+id/viewLinear">
+
+    <ScrollView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_margin="20dp"
+        android:layout_centerInParent="true">
+
+        <mrfu.pomodoro.progressbar.HoloCircularProgressBar
+            android:id="@+id/progressbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            app:progress_background_color="@android:color/darker_gray"
+            app:progress_color="@android:color/holo_red_light"
+            app:marker_progress="0"
+            app:progress="0" />
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/tv_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textSize="50sp"
+        android:textColor="@android:color/holo_red_light" />
+</RelativeLayout>

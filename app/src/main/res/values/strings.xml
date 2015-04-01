@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pomodoro Technique</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+
+    <string name="stop">Stop</string>
+    <string name="running_in_background">Running in background</string>
+    <string name="do_you_wish_to_stop">Do you wish to stop?</string>
+    <string name="stop_pomodoro">Stop Pomodoro?</string>
+    <string name="break_time_up">Break time\'s UP</string>
+
+    <string name="tap_to_break">Tap to Break</string>
+    <string name="take_a_break">Take a break</string>
+    <string name="cancel">Cancel</string>
+    <string name="pomodoro_time_up">Pomodoro time\'s up</string>
+    <string name="now_you_can_take_a_break">Now you can take a break</string>
+
+
+    <!-- BreakFinishService -->
+    <string name="continue_pomodoro">Continue</string>
+    <string name="now_you_can_continue_your_pomodoro">Now you can continue your pomodoro</string>
+    <string name="tap_to_continue_your_pomodoro">Tap to continue your pomodoro</string>
+
+    <!-- notification in RunningActivity -->
+    <string name="sp_is_running">SimplePomodoro is running</string>
+    <string name="click_to_return">Click to return</string>
+
+    <string name="pomodoro">Pomodoro</string>
+    <string name="task">Task</string>
+
+    <string name="start">Start</string>
+    <string name="tobreak">Break</string>
+    <string name="next_pomodro">next pomodoro</string>
+
+</resources>
