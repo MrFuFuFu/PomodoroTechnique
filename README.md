@@ -10,9 +10,13 @@ Rarely updated blog, but I will post more project to github, I will try to blog 
 第一个版本是我刚开始学习 Android 没多久之后写的，现在我重新将其实现了一次，这一次，我采用 AlarmManager 来实现定时功能，我想应该可以在一定程度上减少电量的消耗了。我也重新设计了界面，让它变的稍微好看了那么一点点
 
 eg：这是一个不完善的版本，我还没有加入上个版本的 TASK 的功能，我觉得上个版本的 TASK 写的太丑了，而且操作太麻烦了，所以，我决定后面花时间重新来实现一个 TASK，可以期待期待。
+
 eg2：这个应用参考了 极简番茄 和 ClearFocus 这两个应用，当然，只是参考极少部分，下面会有链接的
+
 eg3：后面会不断更新的- -。的，直到我将其发布到应用市场为止。喔，对了，这个应该还被豌豆荚评为了“优质应用”了，虽然下载量和后来出现的番茄土豆比起来弱爆了（番茄土豆真的很不错，但是它太复杂了， ^ ^）
+
 eg4：这个是豌豆荚 1.0.2版本的链接：[点我，点我，点我去豌豆荚](http://www.wandoujia.com/apps/com.android.tomatotask)
+
 
 ## describe
 
