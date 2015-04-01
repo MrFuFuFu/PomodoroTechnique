@@ -29,8 +29,8 @@ Android Studio
 
 ## Preview
 
-![preview1](http://ww1.sinaimg.cn/mw1024/005tyPhMgw1eqq90moulqj30k00zk40d.jpg)
-![preview2](http://ww3.sinaimg.cn/mw1024/005tyPhMgw1eqq90ox65qj30k00zkabu.jpg)
+![preview1](http://ww4.sinaimg.cn/bmiddle/005tyPhMgw1eqq95eta63j30g40si0ty.jpg)
+![preview2](http://ww1.sinaimg.cn/bmiddle/005tyPhMgw1eqq95h2aaxj30g00sg3zm.jpg)
 
 ## Reference app
 
